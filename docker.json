@@ -1,0 +1,6 @@
+{
+    "script": "docker",
+    "desc": "docker",
+    "url": "https://github.com/cicdds/docker/archive/refs/tags/0.0.1.tar.gz",
+    "version": "0.0.1"
+}
